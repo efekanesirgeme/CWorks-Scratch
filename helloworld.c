@@ -4,6 +4,6 @@ int main()
 {
 
     printf("Welcome to my world");
-    getchar(); //Read.Line gibi
+    getchar(); //reads input
     return 0;
 }
