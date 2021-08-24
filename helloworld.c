@@ -3,7 +3,7 @@
 int main()
 {
 
-printf("Welcome to my world");
-getchar();
-return 0;
+    printf("Welcome to my world");
+    getchar(); //Read.Line gibi
+    return 0;
 }
