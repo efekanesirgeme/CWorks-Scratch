@@ -13,3 +13,17 @@ float: usually 32 bit
 double: usually 64 bit
 long double: 80 or 128 bit
 */
+#define BOOL char
+#define FALSE 0
+#define TRUE 1
+int thisiszero;
+int thisisone = 1;
+int main()
+
+{
+
+printf(thisisone);
+return 0;
+
+
+}
