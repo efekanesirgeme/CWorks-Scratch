@@ -22,7 +22,7 @@ int main()
 
 {
 
-printf(thisisone);
+printf("%i",thisisone);
 return 0;
 
 
