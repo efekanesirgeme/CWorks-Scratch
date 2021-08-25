@@ -5,8 +5,8 @@
 int main()
 {
 
-printf("Name: Efekan");
-printf("Dob: July 29, 1999");
+printf("Name: Efekan \n");
+printf("Dob: July 29, 1999 \n");
 printf("Phone: 000000000");
 return 0;
 
