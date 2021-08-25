@@ -1,3 +1,5 @@
+// This is our first C code with ub-oh, this code created for understanding github from vscode and some C basics.
+
 #include <stdio.h>
 
 int main()
