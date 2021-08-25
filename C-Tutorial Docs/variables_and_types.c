@@ -11,4 +11,5 @@ long long/long long int: 64 bit
 floating point data types:
 float: usually 32 bit
 double: usually 64 bit
+long double: 80 or 128 bit
 */
